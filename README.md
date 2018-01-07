@@ -8,7 +8,7 @@ In this assignment we have implemented the followings using python + tensorflow:
 - A RNN/GRU-based NER.
 
 Ih the question 3 of this assignment we consider a GRU as an automata and analyzed its toogling and latching behaviors.
-- You can find my (typed, correct and more detailed) solutions here:  [CS224n_written_sections_solutions](https://github.com/junteudjio/stanford_NLP_CS224n_written_sections_solutions)
+- You can find my (handwritten, correct and more detailed) solutions here:  [CS224n_written_sections_solutions](https://github.com/junteudjio/stanford_NLP_CS224n_written_sections_solutions)
 
 
 ## Contributors
